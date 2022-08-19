@@ -1,7 +1,4 @@
 import time
-from pynput.mouse import Controller
-import win32api
-import win32con
 import mouse
 
 
